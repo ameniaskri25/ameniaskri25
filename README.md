@@ -1,6 +1,8 @@
-# Hi 👋! My name is Ameni Askri  
-I'm an IT student specialized in Embedded Systems & Mobile Development  
+# Hi 👋! I'm **Ameni Askri**  
+🎓 IT student | 💡 Embedded Systems & Mobile Development  
 📍 Tunisia
+
+---
 
 <div align="center">
 
@@ -11,9 +13,9 @@ I'm an IT student specialized in Embedded Systems & Mobile Development
 
 ---
 
-### 🧠 Skills & Technologies
+### 🚀 Skills & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
@@ -26,14 +28,27 @@ I'm an IT student specialized in Embedded Systems & Mobile Development
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameni-askri-180320318)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameni.askri25@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/askri_ameni)
+<p align="center">
+  <a href="https://linkedin.com/in/ameni-askri-180320318">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ameni.askri25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/askri_ameni">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<img src="https://i.imgur.com/TI0a7Lk.png" width="150" align="right" />
+<p align="center">
+  <img src="https://i.imgur.com/TI0a7Lk.png" width="200"/>
+</p>
 
-✨ *Thanks for visiting my profile!*   
+---
+
+> ✨ *Thanks for stopping by! I'm always learning and building exciting things in the tech world.*  
+> *Feel free to connect and collaborate!* 🚀
