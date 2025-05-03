@@ -50,5 +50,5 @@
 
 ---
 
-> ✨ *Thanks for stopping by! I'm always learning and building exciting things in the tech world.*  
+> ✨ *Thanks for visiting my profile! I'm always learning and building exciting things in the tech world.
 > *Feel free to connect and collaborate!* 🚀
