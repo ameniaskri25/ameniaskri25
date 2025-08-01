@@ -8,12 +8,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://i.gifer.com/origin/d8/d8a4f1e8f21aebd5633a9c3b9f749fa1_w200.gif" width="200" alt="Anime IT girl animation" />
+</p>
 
-![Ameni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameniaskri25&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameniaskri25&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
