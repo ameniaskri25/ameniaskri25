@@ -1,7 +1,11 @@
 # Hi 👋! I'm **Ameni Askri**  
 🎓 IT student | 💡 Embedded Systems & Mobile Development  
+🎓 Graduated with **Honors (Mention Très Bien)** – June 2025  
 📍 Tunisia
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Congrats animation" />
+</p>
 
 💡 All source codes are available in the Releases section of each project.
 
@@ -53,5 +57,5 @@
 
 ---
 
-> ✨ *Thanks for visiting my profile! I'm always learning and building exciting things in the tech world.
+> ✨ *Thanks for visiting my profile! I'm always learning and building exciting things in the tech world.*  
 > *Feel free to connect and collaborate!* 🚀
