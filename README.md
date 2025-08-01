@@ -4,7 +4,7 @@
 📍 Tunisia
 
 <p align="center">
-  <img src="https://media.tenor.com/Gl2ZLDQ80CEAAAAC/anime-girl.gif" width="200" alt="Anime IT girl animation" />
+  <img src="https://media.tenor.com/Gl2ZLDQ80CEAAAAC/anime-girl.gif" width="200" alt="Anime girl coding" />
 </p>
 
 💡 All source codes are available in the Releases section of each project.
