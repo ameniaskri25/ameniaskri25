@@ -1,61 +1,52 @@
-# Hi 👋! I'm **Ameni Askri**  
-🎓 IT student | 💡 Embedded Systems & Mobile Development  
-🎓 Graduated with **Honors (Mention Très Bien)** – June 2025  
-📍 Tunisia
+# Hi 👋 I'm **Ameni Askri**
 
 <p align="center">
-  <img src="https://media.tenor.com/Gl2ZLDQ80CEAAAAC/anime-girl.gif" width="200" alt="Anime girl coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Data+%26+AI+Enthusiast;Full-Stack+%26+Mobile+Developer;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-💡 All source codes are available in the Releases section of each project.
+🎓 Computer Engineering Student | Bachelor’s in IT (Honors – Très Bien)  
+📍 Tunisia  
+
+💡 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Innovative Software Solutions.**
 
 ---
 
-<div align="center">
-
-![Ameni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameniaskri25&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameniaskri25&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-### 🚀 Skills & Technologies
+## 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,js,html,css,kotlin,flutter,arduino,azure,git,tensorflow" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🌟 Featured Projects
+- 📰 **Fake News Detection (AI & NLP)**
+- 🐱 **AI-Based Cat Health Monitoring**
+- 🌍 **IoT Environmental Monitoring System**
+- 📊 **AI-Powered Social Media Management Platform**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameniaskri25&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameniaskri25&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ameni-askri-180320318">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ameni.askri25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/askri_ameni">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/TI0a7Lk.png" width="200"/>
-</p>
-
----
-
-> ✨ *Thanks for visiting my profile! I'm always learning and building exciting things in the tech world.*  
-> *Feel free to connect and collaborate!* 🚀
+✨ *Always building. Always learning. Ready for AI & Innovation challenges.*
