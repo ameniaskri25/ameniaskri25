@@ -23,7 +23,8 @@
 - 📰 **Fake News Detection (AI & NLP)**
 - 🐱 **AI-Based Cat Health Monitoring**
 - 🌍 **IoT Environmental Monitoring System**
-- 📊 **AI-Powered Social Media Management Platform**
+- 📱 **STUMAR Mobile App (Kotlin & Firebase)**
+
 
 ---
 
