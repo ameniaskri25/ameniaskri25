@@ -19,23 +19,10 @@
 
 ---
 
-## 🌟 Featured Projects
-- 📰 **Fake News Detection (AI & NLP)**
-- 🐱 **AI-Based Cat Health Monitoring**
-- 🌍 **IoT Environmental Monitoring System**
-- 📱 **STUMAR Mobile App (Kotlin & Firebase)**
 
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameniaskri25&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameniaskri25&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
