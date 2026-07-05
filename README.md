@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Data+%26+AI+Enthusiast;Full-Stack+%26+Mobile+Developer;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-🎓 Computer Engineering Student | Bachelor’s in IT (Honors – Très Bien)  
+🎓 Computer Engineering Student | Bachelor’s in IT (Honors)  
 📍 Tunisia  
 
 💡 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Innovative Software Solutions.**
